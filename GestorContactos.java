@@ -44,7 +44,7 @@ public class GestorContactos {
                     Contacto nuevoContacto = new Contacto(nombre, telefono, correo);
                     listaContactos.add(nuevoContacto);
 
-                    System.out.println("Contacto agregado con éxito.\n");
+                    System.out.println("Contacto agregado.\n");
                     break;
 
                 case 2:
