@@ -24,7 +24,7 @@ public class GestorContactos {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("1. Agregar contacto");
+            System.out.println("1. Agregar contactos");
             System.out.println("2. Mostrar contactos");
             System.out.println("3. Salir");
             System.out.print("Seleccione una opción: ");
